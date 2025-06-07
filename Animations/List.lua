@@ -7,3 +7,5 @@ local Anims = {
   ['SuplexSlam'] = 'rbxassetid://18951587811',
   ['EgoBoost'] = 'rbxassetid://18951564615'
 }
+
+return Anims
