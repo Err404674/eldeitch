@@ -6,7 +6,8 @@ local Anims = {
   ['LmbCombo4'] = 'rbxassetid://18951653118',
   ['SuplexSlam'] = 'rbxassetid://18951587811',
   ['EgoBoost'] = 'rbxassetid://18951564615',
-  ['Barrage'] = 'rbxassetid://88338476252480'
+  ['Barrage'] = 'rbxassetid://88338476252480',
+  ['BreakingSwipe'] = 'rbxassetid://138872997058100',
 }
 
 return Anims
