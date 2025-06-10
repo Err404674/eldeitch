@@ -11,6 +11,7 @@ local Anims = {
   ['ScarletCombination'] = 'rbxassetid://79428322094752',
   ['SendoOverdrive'] = 'rbxassetid://84830583541694',
   ['StandJump'] = 'rbxassetid://17491283495',
+  ['Idle1'] = 'rbxassetid://79582554709430',
 }
 
 return Anims
