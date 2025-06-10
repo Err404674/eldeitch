@@ -10,6 +10,7 @@ local Anims = {
   ['BreakingSwipe'] = 'rbxassetid://138872997058100',
   ['ScarletCombination'] = 'rbxassetid://79428322094752',
   ['SendoOverdrive'] = 'rbxassetid://84830583541694',
+  ['StandJump'] = 'rbxassetid://17491283495',
 }
 
 return Anims
