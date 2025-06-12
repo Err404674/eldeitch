@@ -12,6 +12,8 @@ local Anims = {
   ['SendoOverdrive'] = 'rbxassetid://84830583541694',
   ['StandJump'] = 'rbxassetid://17491283495',
   ['Idle1'] = 'rbxassetid://79582554709430',
+  ['Punch1'] = 'rbxassetid://117498813581646',
+  ['Punch2'] = 'rbxassetid://131177585170565',
 }
 
 return Anims
