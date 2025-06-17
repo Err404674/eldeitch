@@ -17,6 +17,7 @@ local Anims = {
   ['Uppercut'] = 'rbxassetid://72034933815820',
   ['Quickshot'] = 'rbxassetid://17491280293',
   ['Quickshot2'] = 'rbxassetid://17491196735',
+  ['Backdash'] = 'rbxassetid://17491198998',
 }
 
 return Anims
